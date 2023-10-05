@@ -1,1 +1,1 @@
-confirm.console.log("Hello, VONSAIK");
+console.log("Hello, VONSAIK");
